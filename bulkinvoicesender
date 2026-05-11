@@ -4,6 +4,6 @@
     "SenderPassword": "inpj rtyh pwym hyoe",
     "SmtpServer": "smtp.gmail.com",
     "Port": 587,
-"ExpiryDate": "2026-06-11",
+    "ExpiryDate": "2026-06-11",
   }
 }
