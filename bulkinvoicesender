@@ -5,9 +5,5 @@
     "SmtpServer": "smtp.gmail.com",
     "Port": 587,
 "ExpiryDate": "2026-06-11",
-  },
-  "FileLocations": {
-    "ExcelPath": "your excel file path",
-    "InvoicesFolder": "your invoice folder path"
   }
 }
