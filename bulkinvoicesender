@@ -1,0 +1,12 @@
+{
+  "EmailSettings": {
+    "SenderEmail": "devyamnashaban@gmail.com",
+    "SenderPassword": "inpj rtyh pwym hyoe",
+    "SmtpServer": "smtp.gmail.com",
+    "Port": 587
+  },
+  "FileLocations": {
+    "ExcelPath": "your excel file path",
+    "InvoicesFolder": "your invoice folder path"
+  }
+}
